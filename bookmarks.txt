@@ -1,0 +1,9 @@
+https://github.com/diasks2/ruby-nlp
+https://github.com/brianhempel/fuzzy_tools
+https://github.com/diasks2/ruby-nlp#text-similarity
+http://davidkariuki.com/blog/2014/05/25/k-means-clustering-with-ruby
+http://helioid.com/general/2013/05/06/simple-fast-text-categorization-in-ruby.html
+https://github.com/helioid/categorize#basic-usage
+
+https://www.airpair.com/nlp/keyword-extraction-tutorial
+https://stackoverflow.com/questions/5457993/python-clustering-search-engine-keywords
